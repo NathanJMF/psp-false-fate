@@ -56,3 +56,6 @@ dkms.conf
 
 #CLion
 .idea/
+
+#PSPSDK
+.build/
