@@ -1,2 +1,1 @@
-# psp-false-fate
-[PSP Homebrew] FALSE//FATE
+# [PSP Homebrew] FALSE//FATE
