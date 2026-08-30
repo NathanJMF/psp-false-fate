@@ -61,4 +61,4 @@ dkms.conf
 .build/
 
 # Private developer documentation
-/dev-docs/
+/_dev_docs/
